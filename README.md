@@ -13,7 +13,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
   
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
-3 (09-09) | 2025-09-10 | to come | to come
+3 (09-09) | 2025-09-10 | <https://bit.ly/431-2025-minute-03> | to come
 5 (09-16) | 2025-09-17 | to come | to come
 7 (09-23) | 2025-09-24 | to come | to come
 11 (10-07) | 2025-10-08 | to come | to come
