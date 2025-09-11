@@ -13,7 +13,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
   
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
-3 (09-09) | 2025-09-10 | <https://bit.ly/431-2025-minute-03> | to come
+3 (09-09) | 2025-09-10 | <https://bit.ly/431-2025-minute-03> | <https://bit.ly/431-2025-min-03-feedback>
 5 (09-16) | 2025-09-17 | to come | to come
 7 (09-23) | 2025-09-24 | to come | to come
 11 (10-07) | 2025-10-08 | to come | to come
@@ -30,7 +30,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 ## Deadlines and Late Work
 
 - All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
-- Completed Minute Papers receive a grade of 4-5 out of a possible 5 points if completed before the Wednesday noon deadline.
+- Completed Minute Papers receive a grade of 4 to 5 out of a possible 5 points if completed before the Wednesday noon deadline.
 - Any Minute Paper completed late, but before Thursday at noon (i.e. within 24 hours) will receive a grade no higher than 3.5 out of 5.
 - After Friday at noon, we will no longer accept Minute Paper submissions.
 
