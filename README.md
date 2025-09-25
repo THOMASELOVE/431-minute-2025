@@ -32,6 +32,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 - All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 - Completed Minute Papers receive a grade of 4 to 5 out of a possible 5 points if completed before the Wednesday noon deadline.
 - Any Minute Paper completed late, but before Thursday at noon (i.e. within 24 hours) will receive a grade no higher than 3.5 out of 5.
-- After Friday at noon, we will no longer accept Minute Paper submissions.
+- After Thursday at noon, we will no longer accept Minute Paper submissions.
 
 The main website for the Fall 2025 version of the 431 course is found at <https://thomaselove.github.io/431-2025>.
