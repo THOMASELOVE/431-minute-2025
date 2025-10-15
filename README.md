@@ -17,7 +17,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 5 (09-16) | 2025-09-17 | <https://bit.ly/431-2025-minute-05> | <https://bit.ly/431-2025-min-05-feedback>
 7 (09-23) | 2025-09-24 | <https://bit.ly/431-2025-minute-07> | <https://bit.ly/431-2025-min-07-feedback>
 11 (10-07) | 2025-10-08 | <https://bit.ly/431-2025-minute-11> | <https://bit.ly/431-2025-min-11-feedback>
-13 (10-14) | 2025-10-15 | <https://bit.ly/431-2025-minute-13> | to come
+13 (10-14) | 2025-10-15 | <https://bit.ly/431-2025-minute-13> | <https://bit.ly/431-2025-min-13-feedback>
 16 (10-28) | 2025-10-29 | to come | to come
 18 (11-04) | 2025-11-05 | to come | to come
 20 (11-11) | 2025-11-12 | to come | to come
